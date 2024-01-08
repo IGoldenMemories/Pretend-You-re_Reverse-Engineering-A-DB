@@ -6,6 +6,9 @@ Schéma physique enrichi
 
 Schéma logique 
 
+![Uploading 3606684c-6dac-4942-bbdb-3c2bb1c2302a.jpg…]()
+
+
 Schéma conceptuel : 
 ![1a7f2271-762b-4d4f-8896-aca8e0b10d7a](https://github.com/IGoldenMemories/Pretend-You-re_Reverse-Engineering-A-DB/assets/72354264/8d50839e-e076-4f70-b658-5aa313b45507)
 
