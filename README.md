@@ -30,7 +30,7 @@ Graphique global selon la localisation des requêtes:
 
 ![repartition_globale](https://github.com/IGoldenMemories/Pretend-You-re_Reverse-Engineering-A-DB/assets/32013966/4442fb3c-05cb-41d2-af8e-3c95df3780e2)
 
-Graphique global de répartition de la complexité:
+Graphique global de répartition de la complexité des requêtes SQL:
 
 ![complexite_requetes](https://github.com/IGoldenMemories/Pretend-You-re_Reverse-Engineering-A-DB/assets/32013966/4a4b29b3-4f78-4c6b-bfb2-5d9e8e21f1a7)
 
